@@ -1,0 +1,16 @@
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\obj\Debug\net5.0\Series.csproj.AssemblyReference.cache
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\bin\Debug\net5.0\Series.exe
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\bin\Debug\net5.0\Series.deps.json
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\bin\Debug\net5.0\Series.runtimeconfig.json
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\bin\Debug\net5.0\Series.dll
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\bin\Debug\net5.0\ref\Series.dll
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\bin\Debug\net5.0\Series.pdb
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\obj\Debug\net5.0\Series.dll
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\obj\Debug\net5.0\ref\Series.dll
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\obj\Debug\net5.0\Series.pdb
+C:\Users\SANDORIOS\Desktop\EverisDotNet_DigitalInnovation\SeriesDotnet\Series\obj\Debug\net5.0\Series.genruntimeconfig.cache
